@@ -18,6 +18,7 @@ vi /etc/hostname
 ```
 ssh-keygen -t rsa
 cat id_rsa.pub >> authorized_keys
+chmod 600 authorized_keys
 偷个懒，所有服务器采用同一公钥和私钥
 ```
 
