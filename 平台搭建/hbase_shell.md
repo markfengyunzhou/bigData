@@ -36,4 +36,15 @@ delete 't1', 'k2', 'f1:c1'
 deleteall 't1', 'k2'
 ```
 
+* 批量到数据
 
+```
+直接导入表
+hbase org.apache.hadoop.hbase.mapreduce.ImportTsv -Dimporttsv.skip.empty.columns=true -Dimporttsv.columns=HBASE_ROW_KEY,cf1:a,cf1:b,cf1:c tbx /user/hpe/test.dat
+```
+```
+先导出hfile
+hbase org.apache.hadoop.hbase.mapreduce.ImportTsv -Dimporttsv.skip.empty.columns=true -Dimporttsv.bulk.output=hfileout.dat -Dimporttsv.columns=HBASE_ROW_KEY,cf1:a,cf1:b,cf1:c tbx test.dat
+再导入表
+hbase org.apache.hadoop.hbase.mapreduce.LoadIncrementalHFiles hfileout.dat tbx
+```
