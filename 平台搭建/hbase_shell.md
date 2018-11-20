@@ -36,6 +36,13 @@ delete 't1', 'k2', 'f1:c1'
 deleteall 't1', 'k2'
 ```
 
+* 删除列族
+```
+disable 'user'
+alter 'user',{NAME=>'user_id',METHOD=>'delete'}
+enable 'user'
+```
+
 * 批量到数据
 
 ```

@@ -8,6 +8,24 @@
 
 * [03.hadoop搭建](https://github.com/markfengyunzhou/bigData/blob/master/%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/03.hadoop%E5%AE%89%E8%A3%85.md)
 
+* [04.zookeeper安装](https://github.com/markfengyunzhou/bigData/blob/master/%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/04.zookeeper%E5%AE%89%E8%A3%85.md)
+
+* [05.hadoop ha](https://github.com/markfengyunzhou/bigData/blob/master/%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/05.hadoop_ha.md)
+
+* [06.mariadb](https://github.com/markfengyunzhou/bigData/blob/master/%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/06.mariadb.md)
+
+* [07.hive](https://github.com/markfengyunzhou/bigData/blob/master/%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/07.hive.md)
+
+* [08.hbase](https://github.com/markfengyunzhou/bigData/blob/master/%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/08.hbase.md)
+
+* [09.hue](https://github.com/markfengyunzhou/bigData/blob/master/%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/09.hue.md)
+
+* [10.sqoop](https://github.com/markfengyunzhou/bigData/blob/master/%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/10.sqoop.md)
+
+* [11.flume](https://github.com/markfengyunzhou/bigData/blob/master/%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/11.flume.md)
+
+* [12.spark](https://github.com/markfengyunzhou/bigData/blob/master/%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/12.spark.md)
+
 ## [数据仓库](https://github.com/markfengyunzhou/bigData/tree/master/%e6%95%b0%e6%8d%ae%e4%bb%93%e5%ba%93)
 
 
