@@ -28,6 +28,19 @@
 
 ## [数据仓库](https://github.com/markfengyunzhou/bigData/tree/master/%e6%95%b0%e6%8d%ae%e4%bb%93%e5%ba%93)
 
+* [数据集](https://github.com/markfengyunzhou/bigData/blob/master/%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93/1.%E8%8E%B7%E5%8F%96%E6%95%B0%E6%8D%AE%E9%9B%86.md)
+
+* [数据清洗](https://github.com/markfengyunzhou/bigData/blob/master/%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93/2.%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97.md)
+
+* [数据建模](https://github.com/markfengyunzhou/bigData/blob/master/%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93/3.%E6%95%B0%E6%8D%AE%E5%BB%BA%E6%A8%A1.md)
+
+* [创建ods表](https://github.com/markfengyunzhou/bigData/blob/master/%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93/4.%E5%88%9B%E5%BB%BAods%E5%BA%93.md)
+
+* [创建fdm表](https://github.com/markfengyunzhou/bigData/blob/master/%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93/5.%E5%88%9B%E5%BB%BAfdm%E8%A1%A8.md) 
+
+* [创建adm表](https://github.com/markfengyunzhou/bigData/blob/master/%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93/6.%E5%88%9B%E5%BB%BAadm%E8%A1%A8.md)
+
+* [创建app表](https://github.com/markfengyunzhou/bigData/blob/master/%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93/7.%E5%88%9B%E5%BB%BAapp%E8%A1%A8.md)
 
 ## [大屏展示](https://github.com/markfengyunzhou/bigData/tree/master/%e5%a4%a7%e5%b1%8f%e5%b1%95%e7%a4%ba)
 
