@@ -42,7 +42,18 @@ disable 'user'
 alter 'user',{NAME=>'user_id',METHOD=>'delete'}
 enable 'user'
 ```
-
+* 计数器
+```
+create'counters','daily','weekly','monthly'
+incr 'counters','2018110101','daily:hites',1
+incr 'counters','2018110101','daily:hites',1
+get_counter 'counters','2018110101','daily:hites'
+```
+* 变量
+```
+t = get_table 'tbx'
+t.scan
+```
 * 批量到数据
 
 ```
@@ -54,4 +65,13 @@ hbase org.apache.hadoop.hbase.mapreduce.ImportTsv -Dimporttsv.skip.empty.columns
 hbase org.apache.hadoop.hbase.mapreduce.ImportTsv -Dimporttsv.skip.empty.columns=true -Dimporttsv.bulk.output=hfileout.dat -Dimporttsv.columns=HBASE_ROW_KEY,cf1:a,cf1:b,cf1:c tbx test.dat
 再导入表
 hbase org.apache.hadoop.hbase.mapreduce.LoadIncrementalHFiles hfileout.dat tbx
+```
+
+* 启动rest api
+```
+# Foreground
+$ bin/hbase rest start -p <port>
+
+# Background, logging to a file in $HBASE_LOGS_DIR
+$ bin/hbase-daemon.sh start rest -p <port>
 ```
