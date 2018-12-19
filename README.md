@@ -26,6 +26,20 @@
 
 * [12.spark](https://github.com/markfengyunzhou/bigData/blob/master/%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/12.spark.md)
 
+* [13.kafka](https://github.com/markfengyunzhou/bigData/blob/master/%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/13.kafka.md)
+
+* [14.oozie](https://github.com/markfengyunzhou/bigData/blob/master/%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/14.oozie.md)
+
+* [15.storm](https://github.com/markfengyunzhou/bigData/blob/master/%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/15.storm.md)
+
+* [16.elasticsearch](https://github.com/markfengyunzhou/bigData/blob/master/%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/16.elasticsearch.md)
+
+* [17.logstash](https://github.com/markfengyunzhou/bigData/blob/master/%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/16.elasticsearch.md)
+
+* [18.kibana](https://github.com/markfengyunzhou/bigData/blob/master/%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/18.kibana.md)
+
+* [19.ambari](https://github.com/markfengyunzhou/bigData/blob/master/%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/19.ambari.md)
+
 ## [数据仓库](https://github.com/markfengyunzhou/bigData/tree/master/%e6%95%b0%e6%8d%ae%e4%bb%93%e5%ba%93)
 
 * [数据集](https://github.com/markfengyunzhou/bigData/blob/master/%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93/1.%E8%8E%B7%E5%8F%96%E6%95%B0%E6%8D%AE%E9%9B%86.md)
